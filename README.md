@@ -2,6 +2,8 @@
 
 This is a skeleton solution for a coding test. Make sure you have the unit tests up and running.
 
+The API we'll be using in this test is a public API that returns country information. You can research it [here](https://restcountries.eu/), although that is not required.
+
 Good luck and relax. 
 
 ## VS Code
