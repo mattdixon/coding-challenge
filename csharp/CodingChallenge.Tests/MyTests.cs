@@ -15,7 +15,7 @@ namespace CodingChallenge.Tests
         [Test]
         public async Task AsyncTest()
         {
-            var json = await ItemUnderTest.GetCountriesJsonAsync("u");
+            var json = await ItemUnderTest.GetCountriesJsonAsync(SearchString);
             Assert.IsNotEmpty(json);
         }
     }
